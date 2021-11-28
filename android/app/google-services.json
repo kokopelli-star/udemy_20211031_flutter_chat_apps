@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778048259695",
+    "project_id": "udemy-20211031",
+    "storage_bucket": "udemy-20211031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778048259695:android:7bf62b007da3fcad4f2f9a",
+        "android_client_info": {
+          "package_name": "com.example.udemy_20211031"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778048259695-medih0j8pahco8nej4atq0de0il4o830.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0iRXhMxzpqHyOF4Q0xjcBtVqW_SiMCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778048259695-medih0j8pahco8nej4atq0de0il4o830.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
